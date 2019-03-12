@@ -1,0 +1,171 @@
+1552389500980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jzn370MjmG5M"
+1552389504715	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552389504721	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552389505743	Marionette	INFO	Listening on port 34991
+1552389505859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552389506211	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552389506228	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552389506376	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552389507249	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552389507484	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552389507486	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1552389574748	Marionette	INFO	Stopped listening on port 34991
+[Parent 24007, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1552390343968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gwf4E3eViZJU"
+1552390347216	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390347221	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552390347880	Marionette	INFO	Listening on port 41961
+1552390347942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552390348154	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390348161	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552390348231	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390349026	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390349105	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390349107	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1552390761173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.twaViGjur9mM"
+1552390765252	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390765260	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552390766004	Marionette	INFO	Listening on port 40671
+1552390766158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552390766346	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390766352	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552390766453	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390767209	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390767325	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552390767327	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+alarms.onAlarm event fired after context unloaded.
+alarms.onAlarm event fired after context unloaded.
+[Parent 25754, Gecko_IOThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1552390905812	Marionette	INFO	Stopped listening on port 40671
+1552390917201	Marionette	INFO	Stopped listening on port 41961
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+thread 'webdriver dispatcher' panicked at 'index out of bounds: the len is 0 but the index is 0', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/mozprofile-0.5.0/src/prefreader.rs:270:17
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+thread 'webdriver server' panicked at 'Error reading response: RecvError', /home/travis/.cargo/registry/src/github.com-1ecc6299db9ec823/webdriver-0.39.0/src/server.rs:221:35
+*** You are running in headless mode.
+*** You are running in headless mode.
+1552396579931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6ufjKsNusodX"
+*** You are running in headless mode.
+1552396580679	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396580682	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396580979	Marionette	INFO	Listening on port 37803
+1552396581059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552396581120	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396581123	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396581162	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396581509	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396581554	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396581555	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1552396648874	Marionette	INFO	Stopped listening on port 37803
+1552396726768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.73WUWuhjTG2E"
+1552396728351	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396728355	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396728704	Marionette	INFO	Listening on port 42045
+1552396728814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552396728883	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396728887	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396728952	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396729407	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396729542	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396729545	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396737288	Marionette	INFO	Stopped listening on port 42045
+[Parent 3136, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1552396792800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SbI2nVzaS0Xv"
+1552396793946	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396793952	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396794318	Marionette	INFO	Listening on port 41871
+1552396794414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552396794488	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396794492	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552396794553	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396794985	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396795060	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552396795063	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+alarms.onAlarm event fired after context unloaded.
+1552396862768	Marionette	INFO	Stopped listening on port 41871
+1552397224662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NA22MVhIVUdG"
+1552397225716	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397225722	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397226147	Marionette	INFO	Listening on port 45289
+1552397226181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552397226346	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397226350	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397226435	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397226868	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397226931	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397226932	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397236650	Marionette	INFO	Stopped listening on port 45289
+[Parent 4346, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1552397414990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iW8APCrJFEoO"
+1552397415875	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397415881	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397416410	Marionette	INFO	Listening on port 35331
+1552397416520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552397416643	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397416648	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397416700	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397417117	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397417165	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397417166	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+JavaScript error: https://www.codechef.com/em/libs/common/common.js?v, line 1: TypeError: $(...).attr(...) is undefined
+1552397433218	Marionette	INFO	Stopped listening on port 35331
+1552397549238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Irj6VmqZJgUg"
+1552397550361	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397550365	addons.webextension.chrome-gnome-shell@gnome.org	WARN	Loading extension 'chrome-gnome-shell@gnome.org': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397550623	Marionette	INFO	Listening on port 35495
+1552397550659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552397550843	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397550850	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+1552397550970	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397551313	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397551371	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1552397551372	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing externally_connectable: An unexpected property was found in the WebExtension manifest.
+JavaScript error: https://www.codechef.com/em/libs/common/common.js?v, line 1: TypeError: $(...).attr(...) is undefined
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+1552397571851	Marionette	INFO	Stopped listening on port 35495
+1552397571925	FirefoxAccounts	ERROR	error GETing /account/devices: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1552397571925	Sync.Engine.Clients	ERROR	Could not retrieve the FxA device list: {"error":{},"errorString":"[Exception... \"NS_ERROR_ABORT\"  nsresult: \"0x80004004 (NS_ERROR_ABORT)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 437\"  data: no]","message":null,"code":null,"errno":null}
+1552397571936	Sync.ErrorHandler	ERROR	Some engines did not sync correctly.
