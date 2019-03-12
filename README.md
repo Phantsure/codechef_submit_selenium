@@ -9,3 +9,6 @@ Submit code(solution to problem) to codechef using python(selenium)
 
 install selenium<br>
 `pip install selenium`
+
+# Note
+This code is only for testing, not for production
